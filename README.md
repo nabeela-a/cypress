@@ -17,7 +17,7 @@ Cypress is a Javascript test automation framework for web applications.
 >-   **Consistent Results:**  Our architecture doesn’t use Selenium or WebDriver. Say hello to fast, consistent and reliable tests that are flake-free.
 >-   **Screenshots and Videos:**  View screenshots taken automatically on failure, or videos of your entire test suite when run from the CLI.
 >
-> Reference- 
+> Reference- [https://www.cypress.io/features]
 
 ## Installing Cypress
 Cypress is a desktop application and can be installed directly on your computer. 
@@ -57,7 +57,7 @@ describe('AT&T Buyflow', function() {
 });
 ```
 The Test Runner should refresh itself and the test in the browser displays the AT&T Buyflow site
-![First test](https://imgur.com/a/0nvbnxp)
+![First test](https://i.imgur.com/JloSdRk.png)
 >**What are describe and it?**
 >
 >All of these functions come from  [Bundled Tools](https://docs.cypress.io/guides/references/bundled-tools.html)  that Cypress bakes in.
@@ -69,6 +69,7 @@ The Test Runner should refresh itself and the test in the browser displays the A
 >Reference - [[https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Write-your-first-test](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Write-your-first-test)]
 
 ### Cypress Resources
+- [Cypress.io](https://www.cypress.io/)
 - [Testing The Way It Should Be (aka Intro Into Cypress)](https://www.youtube.com/watch?v=pJ349YntoIs)
 - [Tutorials](https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices)
 - [Fixtures - `cy.fixture()`](https://docs.cypress.io/api/commands/fixture.html#Syntax)
