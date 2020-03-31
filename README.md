@@ -41,10 +41,10 @@ If you’re not using Node or `npm` in your project or you want to try Cypress o
 - The Cypress Test Runner will launch.
 
 ### Adding a Test File
-1.  Create a `test.spec.js`  file.
+1.  Create a `test.spec.js`  file inside the `cypress > integration`.
 2.  Launch the Cypress Test Runner.
 3. Click on the `test.spec.js` on the Test Runner
-4. Cypress opens the test in a browser (note: it'll be blanck since we haven't written any tests yet)
+4. Cypress opens the test in a browser (note: it'll be blank since we haven't written any tests yet)
 
 ### First Test
 
